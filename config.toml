@@ -1,5 +1,5 @@
-baseurl      = "localhost"
-title        = "My Blog"
+baseurl      = "https://bennivo.github.io"
+title        = "Code, Learn, and Innovate: A Blog on Full-Stack Web Development, Deep Learning, and More"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
@@ -11,7 +11,7 @@ paginate     = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "A simple and beautiful blog"
+  homeSubtitle = "Exploring the World of Tech, One Line of Code at a Time"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -23,8 +23,8 @@ paginate     = 10
   enableGlobalLanguageMenu = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
-  keywords = "homepage, blog"
+  description = "Code, Learn, and Innovate: A Blog on Full-Stack Web Development, Deep Learning, and More"
+  keywords = "Full-Stack Web Development, Deep Learning, Terminal Commands, AI"
   images = [""]
 
 [taxonomies]
@@ -34,14 +34,14 @@ paginate     = 10
 
 [languages]
   [languages.en]
-    title = "Hello Friend NG"
-    subtitle = "A simple theme for Hugo"
-    keywords = ""
+    title = "Code, Learn, and Innovate: A Blog on Full-Stack Web Development, Deep Learning, and More"
+    subtitle = "Exploring the World of Tech, One Line of Code at a Time"
+    keywords = "Full-Stack Web Development, Deep Learning, Terminal Commands, AI"
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "hello friend ng"
+      logoText = "Code, Learn, and Innovate"
       logoHomeLink = "/"
     # or
     #
